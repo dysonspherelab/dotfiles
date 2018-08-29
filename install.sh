@@ -2,7 +2,8 @@
 sudo apt-get update
 
 ## install git, fish
-sudo apt-get install git, fish
+sudo apt-get install git
+sudo apt-get install fish
 
 ## set default shell to fish
 chsh -s /usr/local/bin/fish
